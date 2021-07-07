@@ -4,7 +4,7 @@
 
 - This repository holds solutions to the book's exercises
 
-- The goal of this repository is to track my progress in the book and provide a resource to others working through this book
+- The goal of this repository is to track my progress in the book and provide a resource to others working through it
 
 - Run exercise code in the CLI using (must have python3 installed):
 ```
